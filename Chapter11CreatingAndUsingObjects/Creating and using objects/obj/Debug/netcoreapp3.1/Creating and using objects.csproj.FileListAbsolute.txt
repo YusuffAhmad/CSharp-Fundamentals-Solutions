@@ -1,0 +1,13 @@
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\Creating and using objects\bin\Debug\netcoreapp3.1\Creating and using objects.exe
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\Creating and using objects\bin\Debug\netcoreapp3.1\Creating and using objects.deps.json
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\Creating and using objects\bin\Debug\netcoreapp3.1\Creating and using objects.runtimeconfig.json
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\Creating and using objects\bin\Debug\netcoreapp3.1\Creating and using objects.runtimeconfig.dev.json
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\Creating and using objects\bin\Debug\netcoreapp3.1\Creating and using objects.dll
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\Creating and using objects\bin\Debug\netcoreapp3.1\Creating and using objects.pdb
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\Creating and using objects\obj\Debug\netcoreapp3.1\Creating and using objects.csprojAssemblyReference.cache
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\Creating and using objects\obj\Debug\netcoreapp3.1\Creating and using objects.AssemblyInfoInputs.cache
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\Creating and using objects\obj\Debug\netcoreapp3.1\Creating and using objects.AssemblyInfo.cs
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\Creating and using objects\obj\Debug\netcoreapp3.1\Creating and using objects.csproj.CoreCompileInputs.cache
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\Creating and using objects\obj\Debug\netcoreapp3.1\Creating and using objects.dll
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\Creating and using objects\obj\Debug\netcoreapp3.1\Creating and using objects.pdb
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\Creating and using objects\obj\Debug\netcoreapp3.1\Creating and using objects.genruntimeconfig.cache
